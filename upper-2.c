@@ -7,7 +7,7 @@ int main(int argc, char *argv[]) {
 	scanf("%c",&ch);
 	if(ch>='A' && ch <=90)
 	//A=65
-		printf("Upper case letter");
+printf("Upper case letter");
 	else
 		printf("Not Upper case");
 	return 0;
