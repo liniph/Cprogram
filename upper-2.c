@@ -3,7 +3,7 @@
 int main(int argc, char *argv[]) {
 	
 	char ch;
-	printf("Enter a character");
+	printf("Enter one character");
 	scanf("%c",&ch);
 	if(ch>='A' && ch <='Z')
 		printf("Upper case letter");
